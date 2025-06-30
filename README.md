@@ -57,16 +57,21 @@
   Other quarters (Q1, Q2, Q4) are relatively balanced (20–23%).
 
 **✅ Answers to Specific Questions**
+
 **1. What is the highest revenue-generating product?**
+
 **👉 ZINC WILLIE WINKIE CANDLE STICK**
 
 **2. Which month/year saw peak sales?**
+
 **👉 December, with over 1M revenue and the highest customer count (~60K+)**
 
-**3. Which countries contribute most to revenue?**
+**3. Which countries contribute the most to revenue?**
+
 **👉 United Kingdom (based on previously shared context)**
 
 **4. Are there seasonal trends or spikes?**
+
 **✅ Yes.**
 
   **Q4 (Oct–Dec)** shows a **spike in sales, revenue, and customer engagement**, indicating a strong holiday season impact.
