@@ -6,7 +6,7 @@
 
 **2. 🛍️ Top Product:**
 
- ** ZINC WILLIE WINKIE CANDLE STICK** is the **best-selling product.**
+ **ZINC WILLIE WINKIE CANDLE STICK** is the **best-selling product.**
 
 **3. 📦 Total Quantity Sold:**
 
